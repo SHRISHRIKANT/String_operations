@@ -61,3 +61,4 @@ print(str4.isspace()) #also returns true for special chars
 print(str1.lstrip()) #strips all leading whitespace
 print(number_string.isdigit()) #returns true if all digits
 print(str1.replace('cookie', 'face', 1)) #terrifying
+print(len(str1)) #length of string
